@@ -4,4 +4,4 @@
 
 [2017. 1. 11 - Generic Object 의 Equatable #1](https://github.com/hyuni/Blog-Swift/blob/master/Content/Generic%20Object%20%EC%9D%98%20Equatable.md)
 
-[2017. 1. 12 - Generic Object 의 Equatable #2](https://github.com/hyuni/Blog-Swift/raw/master/Content/Generic%20Object%20%EC%9D%98%20Equatable%202.md)
+[2017. 1. 12 - Generic Object 의 Equatable #2](https://github.com/hyuni/Blog-Swift/blob/master/Content/XCode8%20Playground%20%EC%97%90%EC%84%9C%20cocoapod%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
