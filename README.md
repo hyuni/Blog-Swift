@@ -18,5 +18,6 @@
 
 [2017. 1. 18 - DimView vs VisualEffectView](https://github.com/hyuni/Blog-Swift/blob/master/Content/DimView%20vs%20VisualEffectView.md)
 
+[2017. 1. 20 - iOS 에서 한글 EUC-KR Encoding 문제](https://github.com/hyuni/Blog-Swift/blob/master/Content/iOS%20%EC%97%90%EC%84%9C%20%ED%95%9C%EA%B8%80%20EUC-KR%20Encoding%20%EB%AC%B8%EC%A0%9C.md)
 
 
