@@ -12,7 +12,7 @@
 
 [2017. 1. 14 - Enumeration 의 모든 요소 구하기](https://github.com/hyuni/Blog-Swift/blob/master/Content/Enumeration%20%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EC%9A%94%EC%86%8C%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 
-[2017. 1 16 - Sequence 지원하기](https://github.com/hyuni/Blog-Swift/blob/master/Content/Sequence%20%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0.md)
+[2017. 1. 16 - Sequence 지원하기](https://github.com/hyuni/Blog-Swift/blob/master/Content/Sequence%20%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0.md)
 
 [2017. 1. 18 - 유용한 Swift 라이브러리](https://github.com/hyuni/Blog-Swift/blob/master/Content/%EC%9C%A0%EC%9A%A9%ED%95%9C%20Swift%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
 
