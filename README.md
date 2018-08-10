@@ -1,6 +1,13 @@
 ## 블로그 발행 history
 
-### 1월
+### 2018년 8월
+[2018. 8. 10 - Watermark](https://github.com/hyuni/Blog-Swift/blob/master/Content/watermark.md)
+
+### 2017년 2월
+
+[2017. 2. 06 - Swift 의 Pointer 정리](https://github.com/hyuni/Blog-Swift/blob/master/Content/Swift%20%EC%9D%98%20Pointer.md)
+
+### 2017년 1월
 
 [2017. 1. 10 - XCode Playground 에 TDD 적용하는 방법](https://github.com/hyuni/Blog-Swift/blob/master/Content/XCode%20Playground%20%EC%97%90%20TDD%EB%A5%BC%20%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)
 
@@ -20,6 +27,3 @@
 
 [2017. 1. 20 - iOS 에서 한글 EUC-KR Encoding 문제](https://github.com/hyuni/Blog-Swift/blob/master/Content/iOS%20%EC%97%90%EC%84%9C%20%ED%95%9C%EA%B8%80%20EUC-KR%20Encoding%20%EB%AC%B8%EC%A0%9C.md)
 
-### 2월
-
-[2017. 2. 06 - Swift 의 Pointer 정리](https://github.com/hyuni/Blog-Swift/blob/master/Content/Swift%20%EC%9D%98%20Pointer.md)

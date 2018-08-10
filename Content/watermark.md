@@ -195,5 +195,5 @@ Draws the attributed string in the specified bounding rectangle using the provid
 	}
 ```
 
-워터마크를 출력하는 [playground 샘플]() 을 압축하여 올려두었다.
+워터마크를 출력하는 [playground 샘플](https://github.com/hyuni/Blog-Swift/tree/master/Content/sample/Playground-watermark.playground) 을 sample 에 올려두었다.
 
